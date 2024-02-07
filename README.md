@@ -14,7 +14,7 @@ Brain tumors account for 85% to 90% of all primary central nervous system tumors
 ### Installation <a name="installation"></a>
 
 * Datasets: The complete set of files is publicly available and can be downloaded from Kaggle. Alternatively, you can find the folder (titled _Brain-MRI_) in my Github repository [here].
-* Others: The code can be run in [Google Colab](https://colab.research.google.com/github/nazianafis/Brain-Tumor-Classification/blob/main/Brain_Tumor_Classify.ipynb) as an Interactive Python Notebook (ipynb). No additional installation is required.
+* Others: The code can be run in [Notebook](https://github.com/UtshoData/Brain-Tumor-classification-problem-using-deep-learning-and-XAI/blob/main/Brat.ipynb) as an Interactive Python Notebook (ipynb). No additional installation is required.
     - Colaboratory allows you to use and share Jupyter notebooks with others without having to download, install, or run anything on your own computer (other than a browser).
 
 ### Project Motivation <a name="project-motivation"></a>
